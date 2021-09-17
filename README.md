@@ -1,5 +1,5 @@
 
-Hey, My name is Amir!
+Hey, my name is Amir!
 
 - 🔭 I’m currently working on improving my skills in Fullstack Development (Javascript|React JS|SCSS|Bootstrap)
 - 🌱 I’m currently learning React JS and Django
